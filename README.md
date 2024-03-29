@@ -7,7 +7,7 @@ I've decided to combine my answer for these two tasks as I have created the pack
 
 ## Task 3
 
-My discussion on the 5Rs for my previous codes and the **R package** can be found in the **Jupyter Notebook** file marked Task 3.
+My discussion on the 5Rs for my previous codes and the **R package** can be found in the **Jupyter Notebook** file titled 'Task 3'.
 
 ## Task 4
-The error code and pertubation code can be found in the [https://github.com/BazzahN/stablepackage/blob/main/R/functions.R](https://github.com/BazzahN/stablepackage/blob/main/R/functions.R). The example code can be found in the file here. 
+The error code and pertubation code can be found in the [https://github.com/BazzahN/stablepackage/blob/main/R/functions.R](https://github.com/BazzahN/stablepackage/blob/main/R/functions.R). The example code can be found in the **Jupyter Notebook** file titled 'stablepackage_tutorial.ipynb'.
